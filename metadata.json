@@ -1,0 +1,8 @@
+{
+	"name": "RedditSub",
+	"author": "Jim Derry",
+	"description": "Show the Reddit Subreddit Name",
+	"version": 1.0,
+	"entrypoint": "RedditSub",
+	"type": "user"
+}
